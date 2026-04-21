@@ -16,3 +16,5 @@ https://www.ebyte.com/product/363.html
 # Application
 <img width="667" height="299" alt="image" src="https://github.com/user-attachments/assets/96840a85-afe8-463f-b225-e5c57d3170a7" />
 
+# Esp32 pinout
+<img width="1412" height="729" alt="image" src="https://github.com/user-attachments/assets/9bf39697-7ecd-447b-9127-0e5fbd703890" />
