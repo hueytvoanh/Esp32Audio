@@ -12,3 +12,7 @@ https://www.ebyte.com/product/363.html
 
 # Power - Range
 <img width="668" height="362" alt="image" src="https://github.com/user-attachments/assets/684befc4-6656-4a3a-84ba-fd22375c9ad1" />
+
+# Application
+<img width="667" height="299" alt="image" src="https://github.com/user-attachments/assets/96840a85-afe8-463f-b225-e5c57d3170a7" />
+
