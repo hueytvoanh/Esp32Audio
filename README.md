@@ -17,4 +17,5 @@ https://www.ebyte.com/product/363.html
 <img width="667" height="299" alt="image" src="https://github.com/user-attachments/assets/96840a85-afe8-463f-b225-e5c57d3170a7" />
 
 # Esp32 pinout
+https://mischianti.org/esp32-s3-devkitc-1-high-resolution-pinout-and-specs/#google_vignette
 <img width="1412" height="729" alt="image" src="https://github.com/user-attachments/assets/9bf39697-7ecd-447b-9127-0e5fbd703890" />
